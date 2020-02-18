@@ -12,3 +12,6 @@ def we_cond(temp):
 
 tem = float((input("Enter temperature:")))
 print(we_cond(tem))
+
+
+the end
